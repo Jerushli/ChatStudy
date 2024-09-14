@@ -108,7 +108,7 @@ while True:
 
 ## Output:
 
-![WhatsApp Image 2024-09-14 at 10 51 01_dd10d0b2](https://github.com/user-attachments/assets/72172604-75ae-4608-ad38-3b2b1064ab3e)
+![image](https://github.com/user-attachments/assets/c78b5d41-8015-4a87-a4d0-65ee2bab1d7c)
 
 
 
